@@ -1,0 +1,5 @@
+Greetings! Everyone~
+Hello World!
+This is my first commit file to Github.
+Simply can't wait for the rest to come.
+Cheers!
